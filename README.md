@@ -23,3 +23,7 @@ module.exports = {
 ## All words
 
 See [index.cjs](./src/index.cjs).
+
+## Reference
+
+- [CSpell - Installation](https://cspell.org/docs/installation/)
