@@ -1,0 +1,10 @@
+{
+  "name": "cspell-ban-words",
+  "version": "0.0.1",
+  "main": "src/index.cjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rspack-contrib/cspell-ban-words.git"
+  },
+  "license": "MIT"
+}
