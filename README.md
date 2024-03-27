@@ -1,5 +1,7 @@
 # CSpell Ban Words
 
+A list containing all banned words, such as `slave` and `blacklist`. This package can be used in the CSpell config.
+
 ## Install
 
 ```bash

@@ -4,5 +4,5 @@ module.exports.banWords = [
   "kkk",
   "slave",
   "whitelist",
-  "xxx",
+  "xxx.com",
 ];
