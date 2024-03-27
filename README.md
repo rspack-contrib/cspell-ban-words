@@ -19,3 +19,7 @@ module.exports = {
   flagWords: banWords,
 };
 ```
+
+## All words
+
+See [index.cjs](./src/index.cjs).
