@@ -1,8 +1,15 @@
 module.exports.banWords = [
+  "ass",
+  "balls",
   "blacklist",
+  "dick",
+  "fuck",
   "master-slave",
   "kkk",
   "slave",
+  "shit",
   "whitelist",
-  "xxx.com",
+  "xx",
+  "xxx",
+  "666",
 ];
