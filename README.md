@@ -27,3 +27,4 @@ See [index.cjs](./src/index.cjs).
 ## Reference
 
 - [CSpell - Installation](https://cspell.org/docs/installation/)
+- [CSpell - How to Forbid Words](https://cspell.org/docs/forbidden-words/)
