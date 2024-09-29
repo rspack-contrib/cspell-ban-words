@@ -7,6 +7,7 @@ module.exports.banWords = [
   "master-slave",
   "kkk",
   "slave",
+  "slaves",
   "shit",
   "whitelist",
   "xx",
