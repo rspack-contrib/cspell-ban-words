@@ -6,5 +6,9 @@
     "type": "git",
     "url": "git+https://github.com/rspack-contrib/cspell-ban-words.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
 }
